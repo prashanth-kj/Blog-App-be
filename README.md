@@ -1,3 +1,5 @@
+# This is  Blog App
+
 •	Implemented user-friendly interfaces for content creation and submission.
 
 •	Designed and implemented an admin approval workflow for blog moderation.
